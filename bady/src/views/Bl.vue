@@ -1,10 +1,10 @@
 <template>
-  $END$
+  <span>777</span>
 </template>
 
 <script>
 export default {
-  name: "B"
+  name: "Bl"
 }
 </script>
 
