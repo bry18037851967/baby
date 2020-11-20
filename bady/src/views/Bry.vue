@@ -2,13 +2,14 @@
     <div>
         这是bry的分支
         <h2>包修改的</h2>
+        <span>16点23分</span>
     </div>
 </template>
 
 <script>
-    export default {
-        name: "Bry"
-    }
+export default {
+  name: "Bry"
+}
 </script>
 
 <style scoped>
