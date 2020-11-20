@@ -1,10 +1,10 @@
 <template>
-    <div>我们</div>
+  <span>777</span>
 </template>
 
 <script>
 export default {
-  name: "B"
+  name: "Bl"
 }
 </script>
 
